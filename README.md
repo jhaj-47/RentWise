@@ -3,7 +3,9 @@
 A full-stack web application designed to help landlords manage rental properties, tenants, lease agreements, and monthly rent payments through a centralized dashboard.
 
 ## Features
+## Application Preview
 
+![RentWise Dashboard](rentwise-dashboard.png)
 - **Property Management:** Add, edit, and manage rental properties with multiple units.
 - **Tenant Management:** Maintain tenant contact information and rental records.
 - **Lease Management:** Create and update lease agreements, prevent overlapping leases for the same unit, and track upcoming lease expirations.
